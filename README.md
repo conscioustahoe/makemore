@@ -35,3 +35,7 @@ isabella
 sophia
 
 charlotte
+
+## Credit
+
+Thank you (karpathy) sensei for creating the original (makemore)[https://github.com/karpathy/makemore] 🙏🏼. I used sensei's makemore to create this one for my learning.
