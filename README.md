@@ -38,4 +38,4 @@ charlotte
 
 ## Credit
 
-Thank you (karpathy)[https://github.com/karpathy] sensei for creating the original (makemore)[https://github.com/karpathy/makemore] 🙏🏼. I used sensei's makemore to create this one for my learning.
+Thank you [karpathy](https://github.com/karpathy) sensei for creating the original [makemore](https://github.com/karpathy/makemore) 🙏🏼. I used sensei's makemore to create this one for my learning.
